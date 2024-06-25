@@ -1,2 +1,2 @@
-# clear-day.py
-write a program to check whether its a clear day or not 
+a,b=map(int,input().split())
+print(7-a-b)
